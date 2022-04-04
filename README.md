@@ -11,7 +11,7 @@
 ## Falta
 
 - Incluir en el menú del header las nuevas carpetas
-- Cambios en login y pantalla de inicio
+- Cambios en login y pantalla de inicio (layout y responsive)
 - Rediseñar citas
 - Completar archivos de fichas
 - Cambios en diseño (index.scss)
