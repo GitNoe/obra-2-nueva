@@ -13,6 +13,10 @@
 - Incluir en el menú del header las nuevas carpetas
 - Cambios en login y pantalla de inicio (layout y responsive)
 - Rediseñar citas
-- Completar archivos de fichas
+- Completar archivos de fichas (sistema pestañas + organización)
 - Cambios en diseño (index.scss)
+  - cdn fuentes de google
+  - fuentes para títulos (h)
+  - menos código (?)
+  - variables.scss
 - Diseño y programación de consultas y ofertas si procede

@@ -3,18 +3,18 @@
 
 <head>
     <meta charset="UTF-8">
-    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="../components/js/footer.js"></script>
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/bootstrap-theme.css" rel="stylesheet">
+    <!-- <script src="../components/js/footer.js"></script> -->
+    <!-- <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap-theme.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="../assets/css/index.css">
     <title>Login de Usuario</title>
 </head>
 <!-- MENU SUPERIOR -->
 <body>
 
-
+<!-- header-out.php iria aqui en vez del header div -->
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="collapse navbar-collapse justify-content-md-center" id="navlogin">
